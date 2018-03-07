@@ -2,7 +2,9 @@ public class login
 {
  publi static void main(String args[] )
 {
-     int length=400;
+     HEAD
+     int length=300;
+
      System.out.println("this is lokeh and raghu");
 }
 }
