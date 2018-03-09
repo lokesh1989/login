@@ -1,11 +1,10 @@
 public class login
 {
- publi static void main(String args[] )
+ public static void main(String args[] )
 {
-
-     
      int length=100;
-     System.out.println("this is lokeh and raghu");
+     System.out.println("this is lokesh and raghu");
+     System.out.println("this is jaya and teja");
 }
 }
 
